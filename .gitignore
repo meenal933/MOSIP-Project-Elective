@@ -1,0 +1,24 @@
+# Node
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Security (Never upload your API keys!)
+.env
+
+# Temporary audio files (generated during extraction/TTS)
+*.mp3
+*.m4a
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# NOTE: Videos (*.mp4) are NOT ignored, as requested!

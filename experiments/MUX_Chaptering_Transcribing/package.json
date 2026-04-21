@@ -1,0 +1,11 @@
+{
+  "name": "mosip-chaptering",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@mux/ai": "^0.6.0",
+    "axios": "^1.13.4",
+    "dotenv": "^17.2.3"
+  }
+}

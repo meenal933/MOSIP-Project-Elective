@@ -1,0 +1,86 @@
+[
+  {
+    "startTime": 0,
+    "title": "MOSIP Architecture & Principles"
+  },
+  {
+    "startTime": 29,
+    "title": "ID System Challenges: Proprietary vs Open Source"
+  },
+  {
+    "startTime": 124,
+    "title": "Vendor Lock-in Explained"
+  },
+  {
+    "startTime": 236,
+    "title": "Benefits of Open Source for IDs"
+  },
+  {
+    "startTime": 322,
+    "title": "Privacy and Security Challenges"
+  },
+  {
+    "startTime": 404,
+    "title": "Privacy vs. Security"
+  },
+  {
+    "startTime": 506,
+    "title": "Enforcing Privacy in Software"
+  },
+  {
+    "startTime": 710,
+    "title": "Anonymous Profiling in MOSIP"
+  },
+  {
+    "startTime": 904,
+    "title": "Consent Management in IDs"
+  },
+  {
+    "startTime": 1009,
+    "title": "Interoperability Challenge"
+  },
+  {
+    "startTime": 1049,
+    "title": "Standards & Open Source Solutions"
+  },
+  {
+    "startTime": 1103,
+    "title": "MOSIP's Approach to Challenges"
+  },
+  {
+    "startTime": 1151,
+    "title": "Standardized Biometric Integration"
+  },
+  {
+    "startTime": 1202,
+    "title": "Vendor Lock-in in Biometrics"
+  },
+  {
+    "startTime": 1403,
+    "title": "What is Identity?"
+  },
+  {
+    "startTime": 1438,
+    "title": "Digital Identity Methods"
+  },
+  {
+    "startTime": 1546,
+    "title": "Uniqueness in Identification"
+  },
+  {
+    "startTime": 1641,
+    "title": "Functional vs. Foundational ID"
+  },
+  {
+    "startTime": 1813,
+    "title": "Authentication: Types & Modes"
+  },
+  {
+    "startTime": 2040,
+    "title": "Levels of Assurance in Auth"
+  },
+  {
+    "startTime": 2138,
+    "title": "Assurance Levels & Use Cases"
+  }
+]
